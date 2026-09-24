@@ -6,5 +6,6 @@
 
 I'm a passionate Business Analytics Students at the University of Iowa with experience in Excel, Python, and SQL. I like to try new things, work in a team, and learn how to be most efficient.
 
-- 📫 How to reach me: johnwalter@uiowa.edu
-- ⚡ Fun fact: I love to go skiing in the winter.
+- How to reach me: johnwalter@uiowa.edu
+- Fun fact: I love to go skiing in the winter.
+- I hope to be a Financial Analyst one day.
